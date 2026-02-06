@@ -1,4 +1,4 @@
-# Huffman Compression
+# Algorytm Huffmana
 
 Obiektowa implementacja algorytmu bezstratnej kompresji Huffmana w C++ z obsługą Unicode.
 
