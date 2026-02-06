@@ -1,5 +1,0 @@
-var searchData=
-[
-  ['huffmancoder_0',['HuffmanCoder',['../class_huffman_coder.html',1,'']]],
-  ['huffmantree_1',['HuffmanTree',['../class_huffman_tree.html',1,'']]]
-];
